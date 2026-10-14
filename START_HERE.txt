@@ -1,0 +1,45 @@
+VOX DOC: make Vox-style documentary videos on any topic with Claude Code
+
+Before this, set up Flow Connector: open the extension's side panel,
+Setup -> Copy setup prompt, and paste that into Claude Code.
+
+Then do ONE of these:
+
+  A) Unzip this file, open the unzipped folder in Claude Code (or in VS Code
+     with Claude Code), and type:   start
+
+  B) In any Claude Code chat, type (do NOT attach the zip with the + button;
+     it does not take zip files, and it is not needed):
+       vox-doc.zip is in my Downloads folder. Unzip it, read the CLAUDE.md inside and follow it.
+     If the zip is somewhere else, give its full path instead (Windows:
+     right-click the file -> "Copy as path"), or drag the file into the chat
+     box, which inserts its path.
+
+Claude installs everything, sets up the tools step by step, and then makes
+your video. Afterwards it works from ANY chat:
+    vox doc start        a new video
+    vox doc continue     carry on where you stopped
+
+(Claude: read CLAUDE.md in this folder and follow it.)
+
+---
+
+Hindi / Hinglish:
+
+Pehle Flow Connector setup karo: extension ka side panel kholo,
+Setup -> Copy setup prompt, aur woh Claude Code mein paste karo.
+
+Phir in dono mein se KOI EK karo:
+
+  A) Zip unzip karo, woh folder Claude Code mein kholo aur likho:   start
+
+  B) Kisi bhi Claude Code chat mein yeh likho (zip ko + button se attach
+     MAT karo, woh zip nahi leta, aur zaroorat bhi nahi hai):
+       Mere Downloads folder mein vox-doc.zip hai. Use unzip karo, andar ka CLAUDE.md padho aur usme likha follow karo.
+     Zip kahin aur hai to uska poora path do (right-click -> "Copy as path"),
+     ya file ko chat box mein drag karo, usse path aa jaata hai.
+
+Claude sab install karega, tools ka setup step-by-step karwayega, phir video
+banayega. Uske baad yeh KISI BHI chat se chalega:
+    vox doc start        nayi video
+    vox doc continue     jahan chhoda tha wahin se
